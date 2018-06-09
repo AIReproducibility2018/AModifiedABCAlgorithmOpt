@@ -3,3 +3,18 @@ This is an attempt at reproducing the results in the follwing paper:
 A modified Artificial Bee Colony algorithm for real-parameter optimization (Akay, Karaboga)
 
 https://doi.org/10.1016/j.ins.2010.07.015
+
+@article{AKAY2012120,
+title = "A modified Artificial Bee Colony algorithm for real-parameter optimization",
+journal = "Information Sciences",
+volume = "192",
+pages = "120 - 142",
+year = "2012",
+note = "Swarm Intelligence and Its Applications",
+issn = "0020-0255",
+doi = "https://doi.org/10.1016/j.ins.2010.07.015",
+url = "http://www.sciencedirect.com/science/article/pii/S0020025510003336",
+author = "Bahriye Akay and Dervis Karaboga",
+keywords = "Swarm intelligence, Self-organization, Artificial Bee Colony algorithm, Real-parameter optimization",
+abstract = "Swarm intelligence is a research field that models the collective intelligence in swarms of insects or animals. Many algorithms that simulates these models have been proposed in order to solve a wide range of problems. The Artificial Bee Colony algorithm is one of the most recent swarm intelligence based algorithms which simulates the foraging behaviour of honey bee colonies. In this work, modified versions of the Artificial Bee Colony algorithm are introduced and applied for efficiently solving real-parameter optimization problems."
+}
